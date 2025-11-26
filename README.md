@@ -13,4 +13,5 @@ The program outputs whether or not the user wins or loses each round giving the 
   * Random
   * If/else statements
   * tolower() method
+  * While loops
 
